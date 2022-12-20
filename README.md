@@ -1,6 +1,9 @@
 # News-Article
 A news article app which give users options to save articles and read it offline.
 
+![Simulator Screen Recording - iPhone 14 Pro - 2022-12-20 at 11 08 40](https://user-images.githubusercontent.com/19324077/208592096-f7c822ac-29c5-4895-8b13-0a56ba185e92.gif)
+
+
 **Requirements:  Minimum:**
 * Use of Web API to fetch news details. API - https://moedemo-93e2e.firebaseapp.com/assignment/NewsApp/articles.json.
 * Make sure to persist the data obtained from the above API, for the offline scenario.
